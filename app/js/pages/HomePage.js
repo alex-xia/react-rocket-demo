@@ -24,6 +24,10 @@ class HomePage extends React.Component {
           </div>
 
           <div>
+            <Link to="/login">Login</Link>
+          </div>
+
+          <div>
             <Link to="/search">Search</Link>
           </div>
 
